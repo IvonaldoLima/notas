@@ -12,7 +12,7 @@ O projeto foi escrito em Java utilizado para esudos do componente RecyclerView d
 - A aplicação possui as seguintes funcionalidades.
     - **Listagem das anotações**
         - Primeira tela ao abrir a aplicação.
-        ![N|Solid]()
+        ![](/src/main/res/mipmap-mdpi/ic_launcher.png)
     - **Adicionar anotações**
         - Barra inferior para adicionar uma anotação, ao ser clicado irá abrir a tela para adição.
         - ![N|Solid]()
